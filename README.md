@@ -32,7 +32,7 @@ pip install bs4
 
 pronto já temos os pacotes necessários, vamos clonar a ferramenta
 
-git clone https://github.com/CalebMarcelino/web-gelink.git
+git clone https://github.com/IMr-Code/web-gelink.git
 
 Depois de clonar a ferramenta, entre no directorio da ferramenta
 
