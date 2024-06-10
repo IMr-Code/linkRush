@@ -1,7 +1,7 @@
-**W E B -GEL I N K**
+**linkRush**
 *Desenvolvedor: * Mr Code
 
-O WEB-GELINK é uma ferramenta automatizada para coleta de links de tags a e img de uma página HTML, a ferramenta é simples de se usar e muito significativa para a coleta e analise de links
+O linkRush é uma ferramenta automatizada para coleta de links de tags a e img de uma página HTML, a ferramenta é simples de se usar e muito significativa para a coleta e analise de links
 
 **Instalação**
 
@@ -32,12 +32,12 @@ pip install bs4
 
 pronto já temos os pacotes necessários, vamos clonar a ferramenta
 
-git clone https://github.com/IMr-Code/web-gelink.git
+git clone https://github.com/IMr-Code/linkRush.git
 
 Depois de clonar a ferramenta, entre no directorio da ferramenta
 
-cd web-getlink
+cd linkRush
 
 agora basta rodar a ferramenta, e seja feliz
 
-python3 web-gelink.py
+python3 linkRush.py
