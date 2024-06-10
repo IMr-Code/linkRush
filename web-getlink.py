@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-# Desenvolvedor: Mr Code
-# Github: https://github.com/CalebMarcelino
+# Desenvolvedor: IMr Code
+# Github: https://github.com/IMr-Code
 # Esta ferramenta foi desenvolvida para ser usada de forma etica e moral
 # Nao me responsabilizo com qualquer atividade negativa que possa ser feita
 # Utilizando essa ferramenta
@@ -36,7 +36,7 @@ def banner():
     system('clear')
     system("echo '\e[1;31m'")
     print('*'*20)
-    print('WEB - GEL I N K')
+    os.system("echo linkRUsh | figlet")
     print('*'*20)
     system("echo '\e[0m'")
     print('\033[31mBy: Mr Code\033[0m')
