@@ -41,7 +41,7 @@ def banner():
     print('')
     print('*'*20)
     system("echo '\e[0m'")
-    print('\033[31mBy: Mr Code\033[0m')
+    print('\033[31mBy: IMr Code\033[0m')
     print('')
 
 def main():
