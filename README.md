@@ -1,5 +1,5 @@
 **linkRush**
-*Desenvolvedor: * Mr Code
+*Desenvolvedor:* IMr Code
 
 O linkRush é uma ferramenta automatizada para coleta de links de tags a e img de uma página HTML, a ferramenta é simples de se usar e muito significativa para a coleta e analise de links
 
