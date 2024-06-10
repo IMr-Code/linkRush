@@ -17,7 +17,12 @@ apt install python3
 ou
 pkg install python3 -y
 
-agora precisamos instalar alguns pacotes, caso não tenha o pip nstale com esse comando:
+agora precisamos instalar alguns pacotes, pode rodar o arquivo requirements.txt ou instalar manualmente.
+Passo simples:
+
+pip install -r requeriments.txt
+
+O comando a cima já instala todos os pacotes, mas caso não tenha o PIP instale antes de rodar o comando a  cima.
 
 apt install python3-pip
 ou
